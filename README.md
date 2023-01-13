@@ -1,6 +1,6 @@
 # Inventory Tracker API
 
-This is the back-end API for Inventory Tracker. It's purpose is to  keep track of items in inventory and also monitor when those items are entered into inventory, when they have been shipped to the warehouse and when the items are no longer available..
+This is the back-end API for Inventory Tracker. It's purpose is to  keep track of items in inventory and also monitor when those items are entered into inventory, when they have been shipped to the warehouse and when the items are no longer available.
 
 The project was developed based on SOLID principles and Domain Driven Design to deliver a highly structured, modularized and easy to maintain code.
 
