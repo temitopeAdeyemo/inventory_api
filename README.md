@@ -64,7 +64,7 @@ To run this project, you will first need to add environment variables to your `.
 
 ## Migrations
 
-In order to create the database tables, run the command
+In order to create the database tables, run the command...
 
 ```bash
   make migration-generate
