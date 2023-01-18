@@ -29,6 +29,7 @@ export default {
   // dbUsername: process.env.DB_USERNAME || "postgres",
   // dbPassword: process.env.DB_PASSWORD || "123456789",
   // dbName: process.env.DB_NAME || "wheelerBlog",
+  //
   dbHost: "db",
   dbPort: "5432",
   dbUsername: "postgres",
