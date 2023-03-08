@@ -26,3 +26,4 @@ router.post(
 router.patch("/:id", acceptInvitationValidator, userController.update);
 
 export default router;
+//
