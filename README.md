@@ -76,7 +76,7 @@ Apply the migrations with
   docker compose exec api npm run migration:up
 ```
 
-Revert the migrations with
+Revert the migrations with...
 
 ```bash
   docker compose exec api npm run migration:down
